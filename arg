@@ -1,0 +1,55 @@
+standard:
+	standard::type: 2
+	standard::name: include
+	standard::display-name: include
+	standard::edit-name: include
+	standard::copy-name: include
+	standard::icon: GThemedIcon:0x7fa574010700
+	standard::content-type: inode/directory
+	standard::fast-content-type: inode/directory
+	standard::size: 4096
+	standard::allocated-size: 4096
+	standard::symbolic-icon: GThemedIcon:0x7fa5740106d0
+etag:
+	etag::value: 1565381680:164844
+id:
+	id::file: l2055:12509200
+	id::filesystem: l2055
+access:
+	access::can-read: TRUE
+	access::can-write: TRUE
+	access::can-execute: TRUE
+	access::can-delete: TRUE
+	access::can-trash: TRUE
+	access::can-rename: TRUE
+mountable:
+time:
+	time::modified: 1565381680
+	time::modified-usec: 164844
+	time::access: 1565383373
+	time::access-usec: 516330
+	time::changed: 1565381680
+	time::changed-usec: 164844
+unix:
+	unix::device: 2055
+	unix::inode: 12509200
+	unix::mode: 16877
+	unix::nlink: 2
+	unix::uid: 0
+	unix::gid: 0
+	unix::rdev: 0
+	unix::block-size: 4096
+	unix::blocks: 8
+dos:
+owner:
+	owner::user: root
+	owner::user-real: root
+	owner::group: root
+thumbnail:
+filesystem:
+gvfs:
+xattr:
+xattr-sys:
+selinux:
+[38;05;111;1minclude/[0m[38;05;159;1mdef.h[0m
+[38;05;111;1minclude/[0m[38;05;208;1mdi[0m [38;05;231;1m->[0m [38;05;203;1m/root/disk.iso[0m
